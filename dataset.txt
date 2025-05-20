@@ -1,0 +1,100 @@
+Que dia maravilhoso!;Boa  
+Estou me sentindo em paz.;Boa  
+Nada demais aconteceu hoje.;Neutra  
+Estou cansado de tudo.;Ruim  
+Sinto muita gratidão.;Boa  
+Não tenho opinião sobre isso.;Neutra  
+Que decepção.;Ruim  
+Hoje foi tranquilo.;Boa  
+Sorrir faz tudo parecer melhor.;Boa  
+Estou entediado.;Ruim  
+Isso me trouxe alegria.;Boa  
+Estou me sentindo vazio.;Ruim  
+Está tudo bem.;Boa  
+Foi um ótimo momento.;Boa  
+Não mudou nada.;Neutra  
+Sinto raiva disso.;Ruim  
+Que sensação boa!;Boa  
+Tanto faz.;Neutra  
+Detestei isso.;Ruim  
+Adorei o resultado!;Boa  
+Nada de especial.;Neutra  
+Isso me frustra.;Ruim  
+Que paz interior.;Boa  
+Foi só mais um dia.;Neutra  
+Isso me deixa triste.;Ruim  
+Estou empolgado!;Boa  
+Nem gostei, nem odiei.;Neutra  
+Isso é irritante.;Ruim  
+Que felicidade!;Boa  
+Nada mudou.;Neutra  
+Estou arrasado.;Ruim  
+Estou com o coração leve.;Boa  
+Indiferente.;Neutra  
+Foi uma péssima ideia.;Ruim  
+Isso aquece meu coração.;Boa  
+Não me importo muito.;Neutra  
+Estou desanimado.;Ruim  
+Me sinto inspirado.;Boa  
+Está tudo meio morno.;Neutra  
+Isso me machucou.;Ruim  
+Que vibe boa!;Boa  
+Achei normal.;Neutra  
+Isso foi cruel.;Ruim  
+Me sinto renovado.;Boa  
+Não achei graça.;Ruim  
+Que droga!;Ruim  
+Estou animado para amanhã.;Boa  
+Me deixou pensativo.;Neutra  
+Que frustração.;Ruim  
+Foi incrível!;Boa  
+Está tudo na mesma.;Neutra  
+Estou sem forças.;Ruim  
+Me sinto abençoado.;Boa  
+Indiferença total.;Neutra  
+Isso me abalou.;Ruim  
+Estou feliz com isso.;Boa  
+Foi ok.;Neutra  
+Sinto vergonha.;Ruim  
+Que sensação gostosa.;Boa  
+Sem grandes emoções.;Neutra  
+Que desgosto.;Ruim  
+Me sinto leve.;Boa  
+Não me tocou.;Neutra  
+Estou decepcionado.;Ruim  
+Estou cheio de energia.;Boa  
+Nada demais.;Neutra  
+Isso foi um erro.;Ruim  
+Estou em estado de graça.;Boa  
+Não fede nem cheira.;Neutra  
+Que arrependimento.;Ruim  
+Me sinto amado.;Boa  
+Me deixou indiferente.;Neutra  
+Estou perturbado.;Ruim  
+Isso me fez sorrir.;Boa  
+Nada me surpreendeu.;Neutra  
+Estou com raiva.;Ruim  
+Sinto esperança.;Boa  
+Isso não significa nada pra mim.;Neutra  
+Que perda de tempo.;Ruim  
+Estou muito bem!;Boa  
+Não senti nada.;Neutra  
+Que tristeza.;Ruim  
+Estou em paz comigo.;Boa  
+Não fez diferença.;Neutra  
+Que raiva disso!;Ruim  
+Estou cheio de gratidão.;Boa  
+Foi irrelevante.;Neutra  
+Que sofrimento.;Ruim  
+Estou radiante.;Boa  
+Me pareceu comum.;Neutra  
+Isso acabou comigo.;Ruim  
+Me sinto em harmonia.;Boa  
+Nenhum sentimento forte.;Neutra  
+Isso me fez mal.;Ruim  
+Que dia abençoado!;Boa  
+Foi indiferente.;Neutra  
+Estou quebrado por dentro.;Ruim  
+Estou esperançoso.;Boa  
+Nada tocante.;Neutra  
+Estou muito triste.;Ruim
